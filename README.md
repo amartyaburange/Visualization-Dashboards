@@ -42,3 +42,7 @@ This project presents an interactive Power BI dashboard for exploring offline au
 ## Project Note
 
 This repository documents a Tableau-to-Power-BI dashboard migration. Visualizations and report elements were recreated in Power BI.
+
+## Dashboard Preview
+
+![Offline Automation Systems Dashboard](screenshots/dashboard.png)
