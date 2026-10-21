@@ -45,5 +45,4 @@ This repository documents a Tableau-to-Power-BI dashboard migration. Visualizati
 
 ## Dashboard Preview
 
-![Offline Automation Systems Dashboard]
-(screenshots/dashboard.png)
+![Offline Automation Systems Dashboard](screenshots/dashboard.png)
